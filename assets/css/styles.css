@@ -57,7 +57,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #f9f8f8;
 }
 
 [tabindex="-1"]:focus {
@@ -150,13 +150,13 @@ sup {
 }
 
 a {
-  color: #F85C70;
+  color: #242222;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #f51330;
+  color: #050202;
   text-decoration: none;
 }
 
@@ -433,7 +433,7 @@ small,
 mark,
 .mark {
   padding: 0.2em;
-  background-color: #fcf8e3;
+  background-color: #c6c6c5;
 }
 
 .list-unstyled {
